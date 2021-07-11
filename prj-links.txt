@@ -1,0 +1,13 @@
+projects done:
+https://www.autodesk.ca/fr/solutions/electrical-drawing 
+https://www.autodesk.de/solutions/digital-drawing-software 
+https://www.autodesk.de/solutions/electrical-drawing
+https://www.autodesk.fr/solutions/3d-cad-software
+https://www.autodesk.ca/fr/solutions/technical-drawing
+https://www.autodesk.com.br/solutions/electrical-design
+https://www.autodesk.com.br/solutions/floor-plan
+
+https://dam.autodesk.com/
+https://apps.gosavo.com/autodesk/oneteamsource/?returnUrl=%2f
+https://jira.autodesk.com/browse/TRACKR-13836
+https://control.akamai.com/apps/auth/?TARGET_URL=Y29udHJvbC5ha2FtYWkuY29tL2FwcHMvaG9tZS1wYWdlLw==#/login
