@@ -1,0 +1,27 @@
+UAN:101045862161
+P.F.Account No. :APHYD14894460000022058
+Establishment Name :CONNEQT BUSINESS SOLUTIONS LIMITED, BEGUMPET HYDERABAD
+Establishment Address :HYDERABAD 1-8-371 GOWRA TRINITY BEGUMPET BEGUMPET HYDERABAD 617
+Date of joining :27/01/2017
+PF Account Held By :HYDERABAD
+Member Name :TARUN SHARMA
+Date of Birth :31/01/1989
+Father/Spouse Name :RAVINDER KUMAR SHARMA
+Relationship :FATHER
+
+P.F.Account No. : APHYD14894460000022058
+New P.F Account No. : MHBAN001261000X0749995
+UAN:101045862161
+UAN pswd: Tarun@mca7#1234567
+
+ITR login password:
+Tarun@mca7#123
+
+
+icici
+u: TARUNMCA7
+p: Tarun@mca6#123
+
+sbi
+u: tarunmca
+p: Secure_1234
