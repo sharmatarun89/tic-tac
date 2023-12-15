@@ -12,7 +12,7 @@ Relationship :FATHER
 P.F.Account No. : APHYD14894460000022058
 New P.F Account No. : MHBAN001261000X0749995
 UAN:101045862161
-UAN pswd: Tarun@mca6#123456
+UAN pswd: Tarun@mca6#123
 
 ITR login password:
 Tarun@mca7#123
